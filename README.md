@@ -1,4 +1,4 @@
-## Hi there i`m Ezra Nzioki a programmer 👋
+## Hi there 👋 i`m Ezra Nzioki a programmer 
 
 <!--
 **Ezra-nzioki/ezra-nzioki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
