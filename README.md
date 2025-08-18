@@ -1,16 +1,27 @@
-## Hi there 👋 i`m Ezra Nzioki a programmer 
+# Hi there, I'm Ezra Nzioki 👋
 
-<!--
-**Ezra-nzioki/ezra-nzioki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+I'm a passionate student with a love for technology and creativity. I enjoy building beautiful, interactive web experiences and bringing ideas to life through code and design.
 
-Here are some ideas to get you started:
+## 🚀What i'm learning
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **node js**
+- **git and github**
+- **front-end and backend development**
+- **frameworks**
+- **databases**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Goals
+- Build real world projects
+- Master web development technique's
+- Collaborate with other developers
+- Learn new and advanced skills 
+
+## 🧑🏼‍💼Current projects
+**Creating a README PROFILE**
+
+## 📫 Connect with Me
+- **WhatsApp:** [0710865376](https://wa.me/254710865376)
+- **Email:** [ezranzioki@gmail.com](mailto:ezranzioki@gmail.com)
