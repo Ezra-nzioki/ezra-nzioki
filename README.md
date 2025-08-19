@@ -1,4 +1,4 @@
-# Hi there, I'm Ezra Nzioki 👋
+# Hi there👋, I'm Ezra Nzioki 
 
 ## 👨‍🎓 About Me
 I'm a passionate student with a love for technology and creativity. I enjoy building beautiful, interactive web experiences and bringing ideas to life through code and design.
