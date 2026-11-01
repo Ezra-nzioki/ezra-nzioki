@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Website developer
 -----------------
 
-I'm a passionate student with a love for technology and creativity. I enjoy building beautiful, interactive web experiences and bringing ideas to life through code and design.
+I'm a passionate full stack developer with a love for technology and creativity. I enjoy building beautiful, interactive web experiences and bringing ideas to life through code and design.
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [My portfolio](http://ezranzioki.onrender.com)
