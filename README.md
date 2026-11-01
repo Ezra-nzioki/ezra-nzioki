@@ -7,7 +7,7 @@ Website developer
 I'm a passionate student with a love for technology and creativity. I enjoy building beautiful, interactive web experiences and bringing ideas to life through code and design.
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [My portfolio](http://ezranzioki.netlify.app)
+* 🖥️  See my portfolio at [My portfolio](http://ezranzioki.onrender.com)
 * ✉️  You can contact me at [ezranzioki@gmail.com](mailto:ezranzioki@gmail.com)
 * 🧠  I'm currently learning front-end frameworks and back-end development
 * 👥  I'm looking to collaborate on Interesting projects
